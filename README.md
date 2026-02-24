@@ -30,3 +30,8 @@ Glassdoor IT Jobs Dataset (2253 job postings)
 
 ## Tools Used
 Python, Pandas, NumPy, Matplotlib, Seaborn
+
+## Future Improvements
+- Build interactive dashboard using Streamlit
+- Deploy as web app
+- Add advanced NLP-based skill extraction
